@@ -10,7 +10,7 @@ Emojis: https://emojipedia.org/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nor)](https://github.com/Gustavo-Nor/github-readme-stats)
 
 ## My name is Gustavo Nor
-***
+
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
