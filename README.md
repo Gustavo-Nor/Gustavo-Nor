@@ -15,10 +15,11 @@ Emojis: https://emojipedia.org/
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="swift" src="https://img.shields.io/badge/swift-316192?style=for-the-badge&logo=swift&logoColor=white%22%20/%3E" />
 </div><br/>
 
 - 👨🏼‍💻 Technical Support Engineer Specialist @SAP<en/>
-- 🌐 Passionate learner about web development<en/>
+- 🌐 Passionate learner about web and mobile development<en/>
 
 
 <!--
